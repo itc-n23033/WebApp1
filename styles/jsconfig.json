@@ -1,0 +1,8 @@
+{
+"compiler0ptions": {
+"baseUrl": ".",
+"paths": {
+"@/components/*": ["components/*"]
+}
+}
+}
